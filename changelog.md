@@ -1,5 +1,11 @@
 # Change log
 
+## [6.1.2] - 2026-03-29
+
+### Fixed
+
+- Unwanted toolbar in the Group selector when moving accounts
+
 ## [6.1.1] - 2026-03-12
 
 ### Fixed
